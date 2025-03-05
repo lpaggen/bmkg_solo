@@ -180,13 +180,13 @@ Bella Mère,Blonde,"6,5 %",Brasserie Millevertus
 Belle Cies,Blonde,10 %,Huisebrouwerij Den Tseut
 Belle-Fleur,India Pale Ale,6 %,Brasserie De Dochter van de Korenaar
 Belle Pin-Up,Blonde,5 %,Brasserie L'Échappée Belle
-Belle-Vue Framboise,Fruitée,"5,7 %",Brasserie Belle-Vue (InBev)
-Belle-Vue Extra Framboise,Fruitée,"2,9 %",Brasserie Belle-Vue (InBev)
-Belle-Vue Kriek,Kriek,"5,2 %",Brasserie Belle-Vue (InBev)
-Belle-Vue Kriek Classique,Kriek,"5,1 %",Brasserie Belle-Vue (InBev)
-Belle-Vue Extra Kriek,Kriek,"4,3 %",Brasserie Belle-Vue (InBev)
-Belle-Vue Gueuze,Lambic,"5,5 %",Brasserie Belle-Vue (InBev)
-Belle-Vue LA,NA,1 %,Brasserie Belle-Vue (InBev)
+Belle-Vue Framboise,Fruitée,"5,7 %",Brasserie Belle-Vue
+Belle-Vue Extra Framboise,Fruitée,"2,9 %",Brasserie Belle-Vue
+Belle-Vue Kriek,Kriek,"5,2 %",Brasserie Belle-Vue
+Belle-Vue Kriek Classique,Kriek,"5,1 %",Brasserie Belle-Vue
+Belle-Vue Extra Kriek,Kriek,"4,3 %",Brasserie Belle-Vue
+Belle-Vue Gueuze,Lambic,"5,5 %",Brasserie Belle-Vue
+Belle-Vue LA,NA,1 %,Brasserie Belle-Vue
 Bellebière Amber,Ambrée,"5,2 %",Brasserie Van Steenberge
 Bellebière Dubbel,Brune,"6,2 %",Brasserie Van Steenberge
 Bellebière Trippel,Triple,8 %,Brasserie Van Steenberge
@@ -213,7 +213,7 @@ Bière du Corsaire Cuvée Spéciale,Blonde,"9,4 %",Brasserie Huyghe
 Bière du Mont Saint-Aubert,Blonde,8 %,Brasserie de Brunehaut
 Bière Spéciale Belge,Spéciale,5 %,Brasserie La Binchoise
 Big Bavik,Blonde,5 %,Brasserie Bobbi
-Big Chouffe,Blonde,8 %,Brasserie d'Achouffe (fait partie de Duvel Moortgat)
+Big Chouffe,Blonde,8 %,Brasserie d'Achouffe (Brasserie Duvel Moortgat)
 Bierpruver Dubbel Bruin,Double,"7,5 %",Huisbrouwerij de 3 vaten
 Bierpruver Tripel,Triple,9 %,Huisbrouwerij de 3 vaten
 Bierpruver Winter,Bière de Noël,8 %,Huisbrouwerij de 3 vaten |-
@@ -281,7 +281,7 @@ Bobeline black label,Brune,"8,5 %",Brasserie Huyghe
 Bobeline blanche fraise,Blanche,"3,6 %",Brasserie Huyghe
 Bobeline blonde,Blonde,"8,5 %",Brasserie Huyghe
 Bock Leroy,Bière de table,"1,8 %",Brasserie Het Sas
-Bock Pils,Pils,"5,2 %",Brasserie Pirlot
+Bock Pils,Pils,"5,2 %",Brasserie Palm
 Bockor Pils,"Fermentation basse, Pils","5,2 %",Brasserie Boon
 Bocq Christmas,Bière de Noël,"8,1 %",Brasserie du Bocq
 Boembeke Luiwerk,Blonde,"6,5 %",Brasserie De Graal
@@ -344,9 +344,9 @@ Brugs,Blanche,"4,8 %",Alken-Maes (Heineken) (Précédemment brassée dans la Br
 Brugs Beertje 20,Blonde,"6,5 %",Brasserie De Regenboog
 Brugs Beertje 25,Ambrée,9 %,Brasserie De Regenboog
 Brugse Babbelaar,Blonde,"6,5 %",De Proefbrouwerij
-Brugse Bok,Brune,"6,5 %",Brasserie De Halve Maan (Bruges)
-Brugse Zot Blond,Blonde dorée,6 %,Brasserie De Halve Maan (Bruges)
-Brugse Zot Dubbel,Brune,"7,5 %",Brasserie De Halve Maan (Bruges)
+Brugse Bok,Brune,"6,5 %",Brasserie De Halve Maan
+Brugse Zot Blond,Blonde dorée,6 %,Brasserie De Halve Maan
+Brugse Zot Dubbel,Brune,"7,5 %",Brasserie De Halve Maan
 Bruin Leroy,Bière de table,"1,8 %",Brasserie Het Sas
 Brune,Brune,"6,8 %",Brasserie de Bellevaux
 Brunehaut Terroir,Blanche,5 %,Brasserie de Brunehaut
@@ -447,10 +447,10 @@ Chimay Rouge,Trappiste,7 %,Abbaye Notre-Dame de Scourmont
 Chimay Triple,Triple,8 %,Abbaye Notre-Dame de Scourmont
 Chimay Dorée,"Blonde, Bière de table","4,8 %",Abbaye Notre-Dame de Scourmont
 La Chinette,Blonde,6 %,Brasserie de la Lesse
-La Chouffe,"Blonde, Fermentation haute",8 %,Brasserie d'Achouffe (fait partie de Duvel Moortgat)
-Chouffe Bok 6666,Ambrée,6 %,Brasserie d'Achouffe (fait partie de Duvel Moortgat)
-Chouffe Houblon Dobbelen IPA Triple,IPA,9 %,Brasserie d'Achouffe (fait partie de Duvel Moortgat)
-Chouffe Soleil,Blonde,6 %,Brasserie d'Achouffe (fait partie de Duvel Moortgat)
+La Chouffe,"Blonde, Fermentation haute",8 %,Brasserie d'Achouffe (Brasserie Duvel Moortgat)
+Chouffe Bok 6666,Ambrée,6 %,Brasserie d'Achouffe (Brasserie Duvel Moortgat)
+Chouffe Houblon Dobbelen IPA Triple,IPA,9 %,Brasserie d'Achouffe (Brasserie Duvel Moortgat)
+Chouffe Soleil,Blonde,6 %,Brasserie d'Achouffe (Brasserie Duvel Moortgat)
 Christmas Leroy,"Fermentation haute, Bière de Noël","7,5 %",Brasserie Van Eecke
 Christmas-Verhaeghe,"Fermentation haute, Bière de Noël","7,2 %",Brasserie Verhaeghe
 Christmas Pale Ale,"Fermentation haute, Bière de Noël","6,3 %",Brasserie De Ryck
@@ -466,8 +466,8 @@ Contrapils,Pils,5 %,Brasserie Contreras
 Contreras' Especial Mars,"Fermentation haute, Bière de saison","6,5 %",Brasserie Contreras
 Cookie Beer,Spéciale,8 %,Brasserie d'Écaussinnes
 Coq Hardi,"Fermentation basse, Blonde","5,5 %",Brasserie Haacht
-La Corne du Bois des Pendus Blonde,"Fermentation haute, Blonde","5,9 %",Brasserie des Fagnes
-La Corne du Bois des Pendus Triple,"Fermentation haute, Triple",10 %,Brasserie des Fagnes
+La Corne du Bois des Pendus Blonde,"Fermentation haute, Blonde","5,9 %",Brasserie des Légendes
+La Corne du Bois des Pendus Triple,"Fermentation haute, Triple",10 %,Brasserie des Légendes
 Corsendonk Agnus,"Blonde, Triple","7,5 %",Brasserie du Bocq
 Corsendonk Blonde,Fermentation haute,"6,5 %",Brasserie du Bocq
 Corsendonk Brune,Fermentation haute,"6,5 %",Brasserie du Bocq
@@ -537,9 +537,9 @@ De Graal Quest,,9 %,Brasserie De Graal
 De Graal Triverius,Blanche,"6,8 %",Brasserie De Graal
 Deinze Export,,"4,6 %",Huisbrouwerij Sint Canarus
 De Kavijaks,IPA,7 %,De Dolle Brouwers
-De Koninck,Ambrée,"5,2 %",Brasserie De Koninck (fait partie de Duvel Moortgat)
-De Koninck Triple d'Anvers,Blonde,,Brasserie De Koninck (fait partie de Duvel Moortgat)
-De Koninck Winter,Rouge,"6,5 %",Brasserie De Koninck (fait partie de Duvel Moortgat)
+De Koninck,Ambrée,"5,2 %",Brasserie De Koninck (Brasserie Duvel Moortgat)
+De Koninck Triple d'Anvers,Blonde,,Brasserie De Koninck (Brasserie Duvel Moortgat)
+De Koninck Winter,Rouge,"6,5 %",Brasserie De Koninck (Brasserie Duvel Moortgat)
 Delhaize Christmas,(Bière-étiquette),9 %,Brasserie Affligem (Heineken)
 Delhaize Bière de table Blond,Bière de table,"1,5 %",Brasserie Piedbœuf (InBev)
 Delhaize Bière de table Brune,Bière de table,"1,5 %",Brasserie Piedbœuf (InBev)
@@ -566,7 +566,7 @@ Dendermonde Tripel,"Abbaye, Triple",8 %,Brasserie De Block
 Dentergems Wit,Blanche,5 %,Brasserie Het Anker
 De Regenboog IJzer,,6 %,Brasserie De Regenboog
 Deugniet,Triple (Bière-étiquette),"7,3 %",Brasserie du Bocq
-DeuS,"Brut, Blonde","11,5 %",Brasserie Boelens
+DeuS,"Brut, Blonde","11,5 %",Brasserie Bosteels
 Deux Nigauds,Brune,8 %,Brasserie Grain d'Orge
 De Verboden Vrucht,Fermentation haute,"8,5 %",Brasserie De Kluis (InBev)
 De Vlier X-Mas,Bière de Noël,"8,5 %",Brasserie De Vlier
@@ -578,7 +578,7 @@ Diôle Brune,Brune,"8,5 %",Brasserie des Carrières
 Diôle de Noël,Saison,"8,5 %",Brasserie des Carrières
 La Divine,"Fermentation haute, Ambrée","9,5 %",Brasserie de Silly
 Dju d'la,Brune,"6,5 %",Brasserie Grain d'Orge
-Dobbel Palm,Fermentation haute,6 %,Brasserie Pirlot
+Dobbel Palm,Fermentation haute,6 %,Brasserie Palm
 Dobbelken Amber,Ambrée,"6,5 %",Brasserie Strubbe
 Dobbelken Bruin,Brune,5 %,Brasserie Strubbe
 Dogabière,(Bière-étiquette),"6,5 %",Huisbrouwerij Sint-Canarus
@@ -608,7 +608,7 @@ Druïde Grand Q,"Triple, Blonde","8,5 %",De Proefbrouwerij
 Druivenbière,Fruitée,6 %,Brasserie Van Steenberge
 Dubbel Buitenlust,Blonde,"8,5 %",De Proefbrouwerij
 Dubbel Klok,Brune,"8,5 %",Brasserie Boelens
-Ducassis,Fruitée,3 %,Brasserie des Fagnes
+Ducassis,Fruitée,3 %,Brasserie des Légendes
 Duchesse de Bourgogne,Vieille brune,"6,2 %",Brasserie Verhaeghe
 Duivels bière,Brune,8 %,Brasserie Boon
 Dulle Griet,Double,"6,5 %",De Scheldebrouwerij
@@ -645,7 +645,7 @@ Equinox,Brune,8 %,Brasserie de la Senne
 Esperluette Ambrée,Ambrée,"6,2 %",Brasse & Vous
 Esperluette Blonde,Blonde,"7,1 %",Brasse & Vous
 Esperluette Gla-Gla,"Saison, Brune","7,5 %",Brasse & Vous
-Estaminet Premium Pils,Pils,"5,2 %",Brasserie Pirlot
+Estaminet Premium Pils,Pils,"5,2 %",Brasserie Palm
 Eupener Bier,Pils,"5,2 %",Brasserie Haacht
 Export 8,Pils,"4,7 %",Brasserie Haacht
 Ezel Bruin,Brune,"6,5 %",Brasserie Bobbi
@@ -755,9 +755,9 @@ Goeie Koffe,Stout,"9,5 %",Brasserie Dijkwaert
 Golden Kenia,Pils,"5,1 %",Brasserie Huyghe
 Golding Campina,Pils,"4,8 %",Alken-Maes (Heineken)
 Gold Pils,Pils,5 %,Brasserie Bobbi
-Goliath Blonde,"Fermentation haute, Blonde","5,5 %",Brasserie des Fagnes
-Goliath Triple,"Fermentation haute, Triple",9 %,Brasserie des Fagnes
-Goliath Winter,"Fermentation haute, Ambrée",7 %,Brasserie des Fagnes
+Goliath Blonde,"Fermentation haute, Blonde","5,5 %",Brasserie des Légendes
+Goliath Triple,"Fermentation haute, Triple",9 %,Brasserie des Légendes
+Goliath Winter,"Fermentation haute, Ambrée",7 %,Brasserie des Légendes
 "Gordon 0,00",NA,0 %,Groupe John Martin
 Gordon Finest Chrome,Fermentation haute,"10,5 %",Groupe John Martin
 Gordon Finest Copper,Fermentation haute,"6,6 %",Groupe John Martin
@@ -768,7 +768,7 @@ Gordon Finest Scotch,Ale,"8,6 %",Groupe John Martin
 Gordon Finest Silver,Fermentation haute,"7,7 %",Groupe John Martin
 Gordon Finest Zero,NA,0 %,Groupe John Martin
 Gordon Five,Pils,5 %,Groupe John Martin
-Gordon Xmas,Bière de Noël,"8,8 %",Brasserie Pirlot
+Gordon Xmas,Bière de Noël,"8,8 %",Brasserie Palm
 Goud Vuur,"Ambrée, Triple",9 %,Brasserie Dijkwaert
 Gouden Arend 125,Blonde dorée,"8,5 %",Brasserie De Ryck
 Gouden Carolus Ambrio,Ambrée,8 %,Brasserie Het Anker
@@ -832,7 +832,7 @@ Hector,"Fermentation haute, Triple","8,2 %",Brasserie De Graal
 Heksemiebière,Fermentation haute,"6,2 %",Microbrasserie Achilles
 Hellekapelle,Blonde,5 %,Brasserie De Bie
 Helleketelbière,Ambrée,7 %,Brasserie De Bie
-Hercule Stout,Stout,9 %,Brasserie des Fagnes
+Hercule Stout,Stout,9 %,Brasserie des Légendes
 Herkenrode Bruin,"Abbaye, Brune",7 %,Brasserie Cornelissen
 Herkenrode Tripel,"Abbaye, Triple",7 %,Brasserie Cornelissen
 Hertalse Poorter,"Fermentation haute, Blonde","6,5 %",Brasserie Slaghmuylder
@@ -877,7 +877,7 @@ Horal's Oude Gueuze Mega Blend,Gueuze,7 %,"Brasserie 3 Fonteinen, Brasserie Boo
 Horse Ale,,"4,5 %",InBev
 Horst bière,"Fermentation basse, Blonde","6,5 %",Brasserie Haacht
 Hotteuse Grand Cru,Brune,8 %,Brasserie Affligem (Heineken)
-Houblon Chouffe Dobbelen IPA Tripel,IPA,9 %,Brasserie d'Achouffe (fait partie de Duvel Moortgat)
+Houblon Chouffe Dobbelen IPA Tripel,IPA,9 %,Brasserie d'Achouffe (Brasserie Duvel Moortgat)
 Hougaerdse Das,"Fermentation haute, Ambrée","5,1 %",Brasserie De Kluis (InBev)
 Houppe,Blonde blonde,7 %,Brasserie artisanale de Namur
 Houten Kop,Spéciale,"6,5 %",Brasserie Strubbe
@@ -897,7 +897,7 @@ Jambe-de-Bois,Triple,8 %,Brasserie de la Senne
 La Jamboise de Bister,Blonde,"6,5 %",Brasserie Lefebvre
 Jan Buuc,(Bière-étiquette),"7,5 %",Brasserie Het Sas
 Jan De Lichte,Blanche,7 %,Brasserie De Glazen Toren
-Jan van Gent,Blonde,"5,5 %",Brasserie Lindemans
+Jan van Gent,Blonde,"5,5 %",Brasserie Liefmans
 Jan van Oudenaarde,Blonde,8 %,Brasserie Slaapmutske
 Jean Nicot,Triple,"8,5 %",Brasserie De Graal
 Jeanke,Blonde,,Brasserie St. Jean
@@ -956,7 +956,7 @@ Kerelsbière Licht,(Bière-étiquette),"6,4 %",Brasserie Het Sas
 Kerkomse Tripel,Triple,9 %,Brasserie Cornelissen
 Kerstpater,"Fermentation haute, Bière de Noël",9 %,Brasserie Van Den Bossche
 Kerstbie,"Brune, Bière de Noël",8 %,Brasserie De Bie
-KerstSmiske,"Brune, Bière de Noël",11 %,Brasserie Struise
+KerstSmiske,"Brune, Bière de Noël",11 %,Brasserie 't Smisje
 Kerstvuur,Bière de Noël,8 %,De Proefbrouwerij
 Kessel 69,Fermentation haute,"6,9 %",Brasserie De Vlier
 Kessel Blond,Fermentation haute,"7,5 %",Brasserie De Vlier
@@ -993,7 +993,7 @@ Kriek Max,Fruitée,"3,2 %",Brasserie Boon
 Kristoffel Blanche,Blanche,5 %,Brasserie Martens
 Kristoffel Blonde,Blonde,6 %,Brasserie Martens
 Kristoffel Brune,Brune,6 %,Brasserie Martens
-Kwak,"Blonde, Fermentation haute","8,4 %",Brasserie Boelens
+Kwak,"Blonde, Fermentation haute","8,4 %",Brasserie Bosteels
 Kwaremont,"Blonde, Fermentation haute","6,6 %",Brasserie Bobbi
 Kwets,Blanche,"6,8 %",Brasserie De Graal
 Kwibus Blond,"Blonde, Fermentation haute","6,4 %",Brasserie Danny
@@ -1028,11 +1028,11 @@ Lesage Dubbel,Fermentation haute,"7,5 %",De Proefbrouwerij
 Leute Bock,"Rouge-brune, Fermentation haute","7,5 %",Brasserie Van Steenberge
 Li Berwette,"Ambrée, Fermentation haute",8 %,Brasserie Saint-Monon
 Li Berwette di Noyè,"Brune, Bière de Noël","8,5 %",Brasserie Saint-Monon
-Liefmans Cuvée-Brut,Fruitée,6 %,Brasserie Lindemans
-Liefmans Frambozenbière,Fruitée,"5,4 %",Brasserie Lindemans
-Liefmans Fruitesse,Fruitée,"3,8 %",Brasserie Lindemans
-Liefmans Goudenband,Brune,8 %,Brasserie Lindemans
-Liefmans Vieille brune,Vieille brune,5 %,Brasserie Lindemans
+Liefmans Cuvée-Brut,Fruitée,6 %,Brasserie Liefmans
+Liefmans Frambozenbière,Fruitée,"5,4 %",Brasserie Liefmans
+Liefmans Fruitesse,Fruitée,"3,8 %",Brasserie Liefmans
+Liefmans Goudenband,Brune,8 %,Brasserie Liefmans
+Liefmans Vieille brune,Vieille brune,5 %,Brasserie Liefmans
 Liene,"Ambrée, Triple",7 %,'t Hofbrouwerijke
 Lienne,Blonde,7 %,Brasserie de la Lienne
 Lienne Brune,Brune,8 %,Brasserie de la Lienne
@@ -1064,13 +1064,13 @@ Louwaege's Kriek,Kriek,"4,3 %",Alken-Maes (Heineken)
 Louwaege Stout,Stout,"4,8 %",Brasserie Louwaege
 Lozen Boer,"Fermentation haute, Quadruple",10 %,De Proefbrouwerij
 Lucifer,"Blonde, Fermentation haute","8,4 %",Brasserie Het Anker (précédemment brassée par l Brasserie Riva et la Brasserie Liefmans)
-Lupulus Blanche,"Blanche, Fermentation haute","4,5 %",Brasserie Humulus
-Lupulus Blonde,Fermentation haute,"8,5 %",Brasserie Humulus
-Lupulus Brune,Triple,"8,5 %",Brasserie Humulus
-Lupulus Fructus,"Fruitée, Fermentation haute","4,8 %",Brasserie Humulus
-Lupulus Hibernatus,"Brune, Bière de Noël",9 %,Brasserie Humulus
-Lupulus Hopera,Blonde,6 %,Brasserie Humulus
-Lupulus Organicus,"Blonde, Bio","8,5 %",Brasserie Humulus
+Lupulus Blanche,"Blanche, Fermentation haute","4,5 %",Brasserie Lupulus
+Lupulus Blonde,Fermentation haute,"8,5 %",Brasserie Lupulus
+Lupulus Brune,Triple,"8,5 %",Brasserie Lupulus
+Lupulus Fructus,"Fruitée, Fermentation haute","4,8 %",Brasserie Lupulus
+Lupulus Hibernatus,"Brune, Bière de Noël",9 %,Brasserie Lupulus
+Lupulus Hopera,Blonde,6 %,Brasserie Lupulus
+Lupulus Organicus,"Blonde, Bio","8,5 %",Brasserie Lupulus
 Lustem,Blanche,7 %,'t Hofbrouwerijke
 La Mac Vertus,Stout,"4,8 %",Brasserie Millevertus
 Ma Mère Spéciale,Blonde,6 %,Brasserie De Leite
@@ -1106,7 +1106,7 @@ Martens Pils,Pils,5 %,Brasserie Martens
 Martin’s Blond,Fermentation haute,6 %,Groupe John Martin
 Martin’s Pale Ale,Fermentation haute,"5,5 %",Groupe John Martin
 Mater Witbier,Blanche,5 %,Brasserie Roman
-Mc Chouffe,Brune,"8,0 %",Brasserie d'Achouffe (fait partie de Duvel Moortgat)
+Mc Chouffe,Brune,"8,0 %",Brasserie d'Achouffe (Brasserie Duvel Moortgat)
 Mc Thals,"Blonde, Fermentation haute","9,5 %",Brasserie Dijkwaert
 La Médiévale,"Ambrée, Fermentation haute",6 %,Brasserie de Bouillon
 Melchior,Ambrée,11 %,Brasserie Alvinne
@@ -1143,20 +1143,20 @@ Morpheus Dark,Fermentation haute,"10,2 %",Brasserie Alvinne
 Morpheus Extra RA,Fermentation haute,"7,1 %",Brasserie Alvinne
 Morpheus Tripel,"Fermentation haute, Triple","8,7 %",Brasserie Alvinne
 Morpheus Wild,Vieille brune,"5,9 %",Brasserie Alvinne
-Mort Subite Cassis,Fruitée,"4,5 %",Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Faro,Faro,4 %,Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Framboise,Fruitée,5 %,Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Gueuze,Gueuze,"4,5 %",Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Kriek,Fruitée,"4,5 %",Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Original Gueuze,Gueuze,"4,5 %",Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Original Kriek,Fruitée,"4,5 %",Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Oude Gueuze,Gueuze,7 %,Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Oude Kriek,Kriek,"6,5 %",Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Pêche,Fruitée,"4,5 %",Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Xtreme Framboise,Fruitée,"4,3 %",Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Xtreme Kriek,Fruitée,"4,3 %",Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Xtreme Manzana,Fruitée,"4,2 %",Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
-Mort Subite Witte Lambic,Lambic,5 %,Brasserie Mort Subite (fait partie d'Alken-Maes<Heineken)
+Mort Subite Cassis,Fruitée,"4,5 %",Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Faro,Faro,4 %,Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Framboise,Fruitée,5 %,Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Gueuze,Gueuze,"4,5 %",Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Kriek,Fruitée,"4,5 %",Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Original Gueuze,Gueuze,"4,5 %",Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Original Kriek,Fruitée,"4,5 %",Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Oude Gueuze,Gueuze,7 %,Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Oude Kriek,Kriek,"6,5 %",Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Pêche,Fruitée,"4,5 %",Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Xtreme Framboise,Fruitée,"4,3 %",Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Xtreme Kriek,Fruitée,"4,3 %",Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Xtreme Manzana,Fruitée,"4,2 %",Brasserie Mort Subite (Alken-Maes (Heineken))
+Mort Subite Witte Lambic,Lambic,5 %,Brasserie Mort Subite (Alken-Maes (Heineken))
 Motuecha,Fermentation haute,5 %,De Struise Brouwers
 Moulin de Hollange – Blonde d’Epeautre,Fermentation haute,6 %,Brasserie Millevertus
 Mouten Kop,IPA,6 %,Brasserie De Graal
@@ -1176,15 +1176,15 @@ Napoleon,Brune,7 %,Brasserie Affligem (Heineken)
 Ne Flierefluiter,Triple,"8,5 %",Brasserie De Leite
 Ne Kopstoot,Fermentation haute,7 %,Brasserie de Brunehaut
 Ne Snoeper,Triple,10 %,'t Hofbrouwerijke
-Nello's Blond,Blonde,7 %,Brasserie De Kroon
-Nello's Tripel,Triple,,Brasserie De Kroon
+Nello's Blond,Blonde,7 %,Brasserie De Hoorn
+Nello's Tripel,Triple,,Brasserie De Hoorn
 Nen Bangelijke,Blonde,8 %,Brasserie 't Pakhuis
 Nen Biskop,Blonde,"6,4 %",Brasserie Danny
 Nen Kerstbal,Bière de Noël,8 %,
 Nen Uts,Spéciale,7 %,Brasserie De Graal
 Netebuk,Blonde,"6,5 %",Brasserie Gulden Spoor
 Newton,Fruitée,"3,5 %",Brasserie Lefebvre
-N'ice Chouffe,"Blonde, Saison",10 %,Brasserie d'Achouffe (fait partie de Duvel Moortgat)
+N'ice Chouffe,"Blonde, Saison",10 %,Brasserie d'Achouffe (Brasserie Duvel Moortgat)
 Nivoo,Triple,7 %,Brasserie Anders!
 Noblesse,"Fermentation haute, Blonde","5,5 %",Brasserie De Dochter van de Korenaar
 Noblesse Extra,"Fermentation haute, IPA",7 %,Brasserie De Dochter van de Korenaar
@@ -1200,7 +1200,7 @@ Novice Blue,Blonde,"8,5 %",Brasserie De Landtsheer
 Novice Black Triple,Noire,"8,5 %",Brasserie De Landtsheer
 Nuits Blanches,,"7,5 %",Brasserie de l'abbaye des Rocs
 Odlo Blond,Fermentation haute,"6,7 %",Brasserie De Graal
-Odlo Hivernum,"Bière de Noël, Stout","8,7 %",Brasserie Cubus
+Odlo Hivernum,"Bière de Noël, Stout","8,7 %",Brasserie Lupulus
 Odlo Triviaal,Triple,"8,2 %",Brasserie De Graal
 Oeral,India Pale Ale,6 %,De Dolle Brouwers
 Oerbier,Fermentation haute,"7,5 %",De Dolle Brouwers
@@ -1238,14 +1238,14 @@ Oxymore,"Ambrée, Fermentation haute",5 %,Brasserie Oxymore
 Paasei,Brune,"7,8 %",
 Pa-Gijs,Brune,"8,5 %",Brasserie Boelens
 Paix-Dieu Pleine Lune,Abbaye,10 %,Brasserie Caulier
-Palm,Spéciale,"5,4 %",Brasserie Pirlot
-Palm Dobbel,Bière de Noël,6 %,Brasserie Pirlot
-Palm Green,NA,"0,25 %",Brasserie Pirlot
-Palm Hopper,Fermentation haute,6 %,Brasserie Pirlot
-Palm N.A,NA,"0,25 %",Brasserie Pirlot
-Palm Royale,Fermentation haute,"7,5 %",Brasserie Pirlot
-Palm Sauvin,Fermentation haute,"4,9 %",Brasserie Pirlot
-Palm Speciale,Spéciale,"5,2 %",Brasserie Pirlot
+Palm,Spéciale,"5,4 %",Brasserie Palm
+Palm Dobbel,Bière de Noël,6 %,Brasserie Palm
+Palm Green,NA,"0,25 %",Brasserie Palm
+Palm Hopper,Fermentation haute,6 %,Brasserie Palm
+Palm N.A,NA,"0,25 %",Brasserie Palm
+Palm Royale,Fermentation haute,"7,5 %",Brasserie Palm
+Palm Sauvin,Fermentation haute,"4,9 %",Brasserie Palm
+Palm Speciale,Spéciale,"5,2 %",Brasserie Palm
 Pandreitje,Blonde,7 %,Brasserie De Regenboog
 Pannepot,Fermentation haute,10 %,De Struise Brouwers par la Brasserie Deca
 Pannepot Reserva,"Fermentation haute, Brune",10 %,Brasserie Deca
@@ -1261,12 +1261,12 @@ Pater Lieven Wit,Abbaye,8 %,Brasserie Van Den Bossche
 Pater Verbiest Blond,"Bio, Blonde","6,5 %",De Proefbrouwerij
 Pater Verbiest Donker,"Bio, Brune",9 %,De Proefbrouwerij
 Paternoster Dubbel,"Brune, Double",8 %,Microbrasserie Achilles à De Proefbrouwerij
-Paternoster Tripel,Triple,8 %,Brasserie Cubus
-Patrasche dubbel,Brune,8 %,Brasserie De Kroon
+Paternoster Tripel,Triple,8 %,Brasserie Lupulus
+Patrasche dubbel,Brune,8 %,Brasserie De Hoorn
 Paulus,Vieille brune,6 %,Brasserie Het Sas
 Paus,,"8,5 %",De Scheldebrouwerij
 Le Pavé de l'Ours,"Fermentation haute, Spéciale","7,5 %",Brasserie de Silenrieux
-Pauwel Kwak,Spéciale,"8,4 %",Brasserie Boelens
+Pauwel Kwak,Spéciale,"8,4 %",Brasserie Bosteels
 Pax Pils,Pils,"4,6 %",Brasserie Cornelissen
 Pêche Mel Bush,Fruitée,"8,5 %",Brasserie Dubuisson
 Pee Klak Grand Cru,(Bière-étiquette),"8,4 %",Brasserie Strubbe
@@ -1415,7 +1415,7 @@ Sainte Nitouche du Verger,"Fruitée, Fermentation haute","4,5 %",Brasserie de l
 Sainte Nitouche Triple,"Blonde, Fermentation haute","9,5 %",Brasserie de la Croix
 Saison 1858,Blonde,"6,4 %",Brasserie du Bocq
 Saison 1900,"Ambrée, Saison","5,2 %",Brasserie Lefebvre
-Saison 2000,Saison,"6,5 %",Brasserie des Fagnes
+Saison 2000,Saison,"6,5 %",Brasserie des Légendes
 Saison Avena,Saison Blonde,"5,5 %",Brasserie Deseveaux
 Saison Cazeau,Saison,5 %,Brasserie de Cazeau
 Saison d'Adeline,"Saison, Brune","3,5 %",Brasserie du Flo
@@ -1433,7 +1433,7 @@ Saison Dupont Cuvée Dry Hopping,Saison,"6,5 %",Brasserie Dupont
 Saison Regal,"Saison, Ambrée","5,5 %",Brasserie du Bocq
 Saison St-Feuillien,"Saison, Ambrée","6,5 %",Brasserie Saint-Feuillien
 Saison Silly,"Saison, Ambrée",5 %,Brasserie de Silly
-Saison Voisin,"Saison, Ambrée",5 %,Brasserie des Fagnes
+Saison Voisin,"Saison, Ambrée",5 %,Brasserie des Légendes
 La Sambrée,Ambrée,6 %,Brasserie du Val de Sambre
 La Sambresse Blonde,Fermentation haute,8 %,Brasserie Brootcoorens
 La Sans Rute,Ambrée,9 %,Brasserie du Brabant
@@ -1486,11 +1486,11 @@ Slag Lager,Pils,5 %,Brasserie Slaghmuylder
 Slaghmuylder's Bière de Noël,"Fermentation basse, Blonde","5,2 %",Brasserie Slaghmuylder
 Slaghmuylder's Paasbière,"Fermentation basse, Blonde","5,2 %",Brasserie Slaghmuylder
 Sloeber,Fermentation haute,"7,5 %",Brasserie Roman
-Smisje Kerst,Ambrée,11 %,Brasserie Struise
-Smiske,Blonde,7 %,Brasserie Struise
-Smiske Bruin,Double,7 %,Brasserie Struise
-Smiske Extra,Triple,7 %,Brasserie Struise
-Smiske Winter,Ambrée,11 %,Brasserie Struise
+Smisje Kerst,Ambrée,11 %,Brasserie 't Smisje
+Smiske,Blonde,7 %,Brasserie 't Smisje
+Smiske Bruin,Double,7 %,Brasserie 't Smisje
+Smiske Extra,Triple,7 %,Brasserie 't Smisje
+Smiske Winter,Ambrée,11 %,Brasserie 't Smisje
 SnaasBière de Noël,Bière de Noël,8 %,Brasserie Deca
 Snoek Blond,Fermentation haute,"7,5 %",Brasserie Bobbi
 Snoek Bruin,Fermentation haute,"5,5 %",Brasserie Strubbe
@@ -1542,10 +1542,10 @@ St. Paul Tripel,"Abbaye, Triple",5 %,Brasserie du Bocq
 St. Sebastiaan Dark,Abbaye,"6,9 %",Brasserie du Bocq
 St. Sebastiaan Grand Cru,Abbaye,"7,6 %",Brasserie du Bocq
 Star Blond,Blonde,"0,4 %",Brasserie Haacht
-Steenbrugge Blond,"Abbaye, Blonde","6,5 %",Brasserie Pirlot
+Steenbrugge Blond,"Abbaye, Blonde","6,5 %",Brasserie Palm
 Steenbrugge Dubbel Bruin,"Abbaye, Triple, Brune","6,5 %",Brasserie Palm (précédemment brassée dans la Brasserie De Gouden Boom)
 Steenbrugge Tripel,"Abbaye, Triple","8,7 %",Brasserie Palm (précédemment brassée dans la Brasserie De Gouden Boom)
-Steenbrugge Wit,Blanche,5 %,Brasserie Pirlot
+Steenbrugge Wit,Blanche,5 %,Brasserie Palm
 Steendonk,Blanche,"4,5 %",Brasserie Duvel Moortgat
 Steenuilke,Fermentation haute,"6,5 %",Brasserie De Ryck
 Stella Artois,"Pils, Fermentation basse","5,2 %",InBev
@@ -1557,8 +1557,8 @@ Stout Leroy,Stout,5 %,Brasserie Het Sas
 Stoute Bie,Brune,"5,5 %",Brasserie De Bie
 Stouterik,Stout,"4,5 %",Brasserie de la Senne
 Stout Vandenheuvel,Stout,"5,8 %",Brasserie L'Imprimerie
-Straffe Hendrik,"Fermentation haute, Triple",9 %,Brasserie De Halve Maan (Bruges)
-Straffe Hendrik Quadrupel,"Fermentation haute, Spéciale",11 %,Brasserie De Halve Maan (Bruges)
+Straffe Hendrik,"Fermentation haute, Triple",9 %,Brasserie De Halve Maan
+Straffe Hendrik Quadrupel,"Fermentation haute, Spéciale",11 %,Brasserie De Halve Maan
 Straffe Toeback,Fermentation haute,"9,5 %",Scheldebrouwerij
 Straffe Winter,Gueuze,8 %,Gueuzestekerij 3 fonteinen
 Strandgaper,Blonde dorée,"6,2 %",De Scheldebrouwerij
@@ -1608,7 +1608,7 @@ Sword,Stout,9 %,Brouwerij Bier & Karakter chez Brasserie Deca
 't Smisje Sleedoorn Extra,Fruitée,7 %,Brasserie De Regenboog
 't Smisje Speciaal,Fermentation haute,"10,5 %",Brasserie De Regenboog
 't Smisje Tripel,Triple,9 %,Brasserie De Regenboog
-'t Zelfde,Blonde,4 %,Brasserie Boelens
+'t Zelfde,Blonde,4 %,Brasserie Bosteels
 't Zwarte Gat bière,Blonde,6 %,Brasserie De Regenboog
 Tania,Blonde,"6,5 %",Brasserie Saint-Monon
 Taras Boulba,Blonde,"4,5 %",Brasserie de la Senne
@@ -1622,18 +1622,18 @@ Terracotta,Blonde,7 %,Brasserie De Regenboog
 The Pom,Fruitée,"5,2 %",Brasserie Grain d'Orge
 Thor,Brune,9 %,Brasserie Valduc-Thor
 Thouroutenaere,Blonde,"8,5 %",Alken-Maes (Heineken)
-Timmermans Caveau Gueuze,Gueuze,"5,5 %",Brasserie Lindemans
-Timmermans Faro Lambic,Faro,4 %,Brasserie Lindemans
-Timmermans Framboise Lambic,Fruitée,4 %,Brasserie Lindemans
-Timmermans Gueuze Lambic,Gueuze,5 %,Brasserie Lindemans
-Timmermans Kriek Lambic,Kriek,4 %,Brasserie Lindemans
-Timmermans Kriek Retro,Fruitée,5 %,Brasserie Lindemans
-Timmermans Lambicus Blanche,Blanche,"4,5 %",Brasserie Lindemans
-Timmermans Oude Gueuze,Lambic,"5,5 %",Brasserie Lindemans
-Timmermans Oude Kriek,Kriek,"5,5 %",Brasserie Lindemans
-Timmermans Pêche Lambic,Fruitée,4 %,Brasserie Lindemans
-Timmermans Strawberry Lambic,Fruitée,4 %,Brasserie Lindemans
-Timmermans Warme Kriek,Kriek,4 %,Brasserie Lindemans
+Timmermans Caveau Gueuze,Gueuze,"5,5 %",Brasserie Timmermans
+Timmermans Faro Lambic,Faro,4 %,Brasserie Timmermans
+Timmermans Framboise Lambic,Fruitée,4 %,Brasserie Timmermans
+Timmermans Gueuze Lambic,Gueuze,5 %,Brasserie Timmermans
+Timmermans Kriek Lambic,Kriek,4 %,Brasserie Timmermans
+Timmermans Kriek Retro,Fruitée,5 %,Brasserie Timmermans
+Timmermans Lambicus Blanche,Blanche,"4,5 %",Brasserie Timmermans
+Timmermans Oude Gueuze,Lambic,"5,5 %",Brasserie Timmermans
+Timmermans Oude Kriek,Kriek,"5,5 %",Brasserie Timmermans
+Timmermans Pêche Lambic,Fruitée,4 %,Brasserie Timmermans
+Timmermans Strawberry Lambic,Fruitée,4 %,Brasserie Timmermans
+Timmermans Warme Kriek,Kriek,4 %,Brasserie Timmermans
 Tineke Van Heule,Fermentation haute,8 %,Brasserie Gulden Spoor
 Titje,"Fermentation haute, Blanche",5 %,Brasserie de Silly
 Tits,Triple,"7,5 %",Brasserie Tits (Pépinster)
@@ -1655,7 +1655,7 @@ Tournay de Noël,"Stout, Bière de Noël","8,2 %",Brasserie de Cazeau
 Tournay Noire,Stout,"7,6 %",Brasserie de Cazeau
 Tournay Triple,"Blonde, Fermentation haute, Triple",9 %,Brasserie de Cazeau
 Tournée Générale,Spéciale,"6,5 %",Brasserie Duvel Moortgat
-Tournée Générale Tripel Hop,"Blonde, Fermentation haute, Triple","7,5 %",Brasserie Pirlot
+Tournée Générale Tripel Hop,"Blonde, Fermentation haute, Triple","7,5 %",Brasserie Palm
 Toverhekske,Ambrée,"5,9 %",Brasserie Walrave
 Trammelantje,Ambrée,"6,5 %",Brasserie Strubbe
 Trappieter,Ambrée,"6,5 %",De Proefbrouwerij
@@ -1666,14 +1666,14 @@ Triest Kriek,"Blanche, Fruitée","5,2 %",Brasserie Den Triest
 Triest Tripel,"Fermentation haute, Triple","7,5 %",Brasserie Den Triest
 Triest X-mas,"Fermentation haute, Bière de Noël","8,5 %",Brasserie Den Triest
 Tripel Kanunnik,Triple,"8,2 %",Brasserie en stokerij Wilderen
-Tripel Karmeliet,Triple,"8,4 %",Brasserie Boelens
+Tripel Karmeliet,Triple,"8,4 %",Brasserie Bosteels
 Tripel Klok,Triple,"8,5 %",Brasserie Boelens
 Tripel Trezeke,Triple,"7,5 %",Brouwerij Anders
 Triple de Brabant,"Triple, Blonde","8,5 %",Groupe John Martin
 Triple Moine,Triple,"7,3 %",Brasserie du Bocq
 Trisser,Triple,"7,5 %",De Proefbrouwerij
-Tripick 6,"Fermentation haute, Blonde",6 %,Brasserie Humulus
-Tripick 8,"Triple, Blonde",8 %,Brasserie Humulus
+Tripick 6,"Fermentation haute, Blonde",6 %,Brasserie Lupulus
+Tripick 8,"Triple, Blonde",8 %,Brasserie Lupulus
 Triverius,Blanche,"6,8 %",Brasserie De Graal
 La Trompeuse,"Fermentation haute, Ambrée","6,9 %",Brasserie Jean Tout Seul
 Trooz forte Triple Blonde,"Triple, Blonde",9 %,Brasserie Grain d'Orge
@@ -1710,7 +1710,7 @@ Ultra Blonde,Blonde,8 %,Brasserie d'Écaussinnes
 Ultradélice,Brune,8 %,Brasserie d'Écaussinnes
 Ultrabrune,Brune,10 %,Brasserie d'Écaussinnes
 Unkerzak,,,De Proefbrouwerij
-Urchon,Fermentation haute,"7,5 %",Brasserie des Fagnes
+Urchon,Fermentation haute,"7,5 %",Brasserie des Légendes
 Urthel Hop-It,"Blonde, IPA","9,5 %",Brasserie De Koningshoeven
 Urthel Hibernus Quentum,Triple,9 %,Brasserie De Leite
 Urthel Parlus Magnificum,Brune,"7,5 %",Brasserie De Leite
@@ -1771,7 +1771,7 @@ Vlaskop,Blanche,"5,5 %",Brasserie Strubbe
 Vleteren Alt,Brune,8 %,Brasserie Deca
 Vleteren Super 8 Blond,Blonde,8 %,Brasserie Deca
 Vliet,Ambrée,,Huisbrouwerij de Vliet
-Vondel,Brune,"8,5 %",Brasserie Lindemans
+Vondel,Brune,"8,5 %",Brasserie Liefmans
 Vossen met de Meynen Blond,(Bière-étiquette),"6,5 %",Brasserie Het Anker
 Vossen met de Meynen 69,"Fermentation haute, Blonde","6,9 %",Brasserie Hof ten Dormaal
 Vraie bière,Blonde IPA,6%,Brasserie Vraie bière
@@ -1784,12 +1784,12 @@ Waaslander,Blanche,5 %,Brasserie Boelens
 Warsage Blonde,Blonde,"6,5 %",Brasserie de Warsage
 Warsage Brune,Brune,9 %,Brasserie de Warsage
 Warsage Triple,"Blonde, Triple","8,5 %",Brasserie de Warsage
-Waterloo Cuvée impériale,"Bière rubis, Triple","9,4 %",Microbrasserie de Waterloo (fait partie de John Martin SA)
-Waterloo Récolte,Blonde,6 %,Microbrasserie de Waterloo (fait partie de John Martin SA)
-Waterloo Récolte Dark,Brune,6 %,Microbrasserie de Waterloo (fait partie de John Martin SA)
-Waterloo Strong Dark (ancienne Double 8 Dark),Brune,8 %,Microbrasserie de Waterloo (fait partie de John Martin SA)
-Waterloo Strong Kriek,Bière fruitée,8 %,Microbrasserie de Waterloo (fait partie de John Martin SA)
-Waterloo Tripel Blond (ancienne Tripel 7 Blond),"Blonde, Triple",8 %,Microbrasserie de Waterloo (fait partie de John Martin SA)
+Waterloo Cuvée impériale,"Bière rubis, Triple","9,4 %",Microbrasserie de Waterloo (fait partie du groupe John Martin)
+Waterloo Récolte,Blonde,6 %,Microbrasserie de Waterloo (fait partie du groupe John Martin)
+Waterloo Récolte Dark,Brune,6 %,Microbrasserie de Waterloo (fait partie du groupe John Martin)
+Waterloo Strong Dark (ancienne Double 8 Dark),Brune,8 %,Microbrasserie de Waterloo (fait partie du groupe John Martin)
+Waterloo Strong Kriek,Bière fruitée,8 %,Microbrasserie de Waterloo (fait partie du groupe John Martin)
+Waterloo Tripel Blond (ancienne Tripel 7 Blond),"Blonde, Triple",8 %,Microbrasserie de Waterloo (fait partie du groupe John Martin)
 La Waterlootoise,Triple,9 %,Brasserie Van Steenberge
 Watneys Scotch Ale,Ale,8 %,Alken-Maes (Heineken)
 Watou Tripel,Triple,"7,5 %",Brasserie Saint-Bernardus
@@ -1813,7 +1813,7 @@ Wildebok,"Fermentation haute, Bock","6,5 %",De Scheldebrouwerij
 Wilderen Goud,Fermentation haute,"6,2 %",Brasserie Wilderen
 Wilderen Kriek,Kriek,"3,5 %",Brasserie Wilderen
 Willy Kriegelbière,Blonde,7 %,Huisbrouwerij Sint Canarus
-Winterkoninck,Rouge,"6,5 %",Brasserie De Koninck (fait partie de Duvel Moortgat)
+Winterkoninck,Rouge,"6,5 %",Brasserie De Koninck (Brasserie Duvel Moortgat)
 Winterkoninkske,Fermentation haute,"8,3 %",Brasserie Cornelissen
 Winterkoninkske Haspengouwse Grand Cru,"Fermentation haute, Bière de Noël",13 %,Brasserie Cornelissen
 Wintersnood,Bière de Noël,"6,4 %",'t Hofbrouwerijke
@@ -1828,9 +1828,9 @@ Wittekerke,Blanche,5 %,Brasserie De Brabandere
 Wittekerke Passion,"Blanche, Fruitée","5,8 %",Brasserie De Brabandere
 Wittekerke Rosé,"Blanche, Fruitée","4,3 %",Brasserie De Brabandere
 Wittoen,"Fermentation haute, Triple",7 %,Brasserie Strubbe
-Wolf 7,Blonde,"7,4 %",Brasserie Cubus
-Wolf 8,Brune,"8,5 %",Brasserie Cubus
-Wolf 9,Ambrée,9 %,Brasserie Cubus
+Wolf 7,Blonde,"7,4 %",Brasserie Lupulus
+Wolf 8,Brune,"8,5 %",Brasserie Lupulus
+Wolf 9,Ambrée,9 %,Brasserie Lupulus
 Wostyntje,Bière à la moutarde,7 %,Brasserie De Regenboog
 Xenophon’s Wine,,11 %,De Struise Brouwers
 X-Mas Beer,"Fermentation haute, Blonde","8,5 %",Brasserie Contreras
